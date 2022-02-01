@@ -11,7 +11,7 @@ status: "published"
 
 ## Welcome to CSS!!
 ***
-We are sure that after diving deep into HTML, everything looks kind of ugly, fixed, and rigid. We have to remember that HTML was created by CERN scientists, and they’re not – usually – the funniest kind of people (although they are the same exact scientists that 
+We are sure that after diving deep into HTML, everything looks kind of ugly, fixed, and rigid. We have to remember that HTML was created by CERN scientists, and they’re not – usually – the funniest kind of people(although they are the same exact scientists that 
 [discovered The Higgs Boson](https://www.youtube.com/watch?v=0CugLD9HF94), and we do have to bow to our knees for that).  However, HTML is still ugly, and it’s ugly because it was created for a different purpose than the one HTML meets today.
 
 ![what is css](../../assets/images/6891485c-2a5a-4722-a7dc-f108993c18ba.jpeg)
@@ -19,7 +19,7 @@ We are sure that after diving deep into HTML, everything looks kind of ugly, fix
 
 
 
-But… The Internet is more beautiful than that. When the internet became popular, it stopped to be only a privilege for scientists and the army, and evolved to become **Part of our world!!**
+But… The Internet is more beautiful than that. When the internet became popular, it stopped being a privilege for scientists and the army, and evolved to become **Part of our world!!**
 
 Ironically, the same scientists at CERN who created HTML had to think about how to improve it. They were given the task to make it more beautiful. It was at this time that [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) proposed the first version of CHSS in 1994, which was later adapted to become CSS1.
 
@@ -51,7 +51,7 @@ Let’s review those 2 tags in more detail:
 
 |**Name**   |**Display**   |**Description**   |
 |:----------|:-------------|:------------------|
-|Link       |link          |The purpose is to link the page with CSS stylesheets.  To use it, you must specify three attributes within the tag: `rel="stylesheet" type="text/css"` and finally `href="with document route css"`<br>like so: `<link rel="stylesheet" type="text/css" href="theme.css">`   |
+|Link       |link          |The purpose is to link the page with CSS stylesheets. To use it, you must specify three attributes within the tag: `rel="stylesheet" type="text/css"` and finally `href="with document route css"`<br>like so: `<link rel="stylesheet" type="text/css" href="theme.css">`   |
 |Style   |style   |If we do not want or can’t import a CSS style sheet, we have the alternative to define styles in the HEAD of the HTML document.  We simply define the style tag and proceed to write the styles we want for the tags.<br>`<style>`<br>`h1 { color:red; }`<br>`p { color:blue; }`<br>`</style>` |
 
 [[info]]
